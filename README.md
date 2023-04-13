@@ -3,7 +3,7 @@
 <p>I am a Tech and Coding enthusiast. 
 I am currently pursuing my B.Tech in Computer Science and Engineering from St. Thomas' College of Engineering and Technology, Kolkata.</p>
 <hr>
-<h3 align="left"><img src="<h3 align="left"><img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="52px">Connect with me:</h3>
+<h3 align="left"><img src="<h3 align="left"><img src="https://media.giphy.com/media/k7Yv2QsOGYTsI0CIDt/giphy.gif" width="52px">Email address:</h3>
 <p>samriddhide81@gmail.com</p>
 <hr>
 <h3 align="left"><img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="52px">Connect with me:</h3>
