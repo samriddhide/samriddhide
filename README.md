@@ -3,9 +3,9 @@
 <p>I am a Tech and Coding enthusiast. 
 I am currently pursuing my B.Tech in Computer Science and Engineering from St. Thomas' College of Engineering and Technology, Kolkata.</p>
 <hr>
-
-- 📫 How to reach me **samriddhide81@gmail.com**
-
+<h3 align="left"><img src="<h3 align="left"><img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="52px">Connect with me:</h3>
+<p>samriddhide81@gmail.com</p>
+<hr>
 <h3 align="left"><img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="52px">Connect with me:</h3>
 <hr>
 <p align="left">
